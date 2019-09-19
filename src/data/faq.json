@@ -1,0 +1,50 @@
+[
+  {
+    "stateId": "New York",
+    "cityId": "NY: New York City",
+    "Q1": "Where is the best Pizza?",
+    "A1": "Di Fara in Brooklyn",
+    "Q2": "Are the bagels really that good?",
+    "A2": "Yes"
+  },
+  {
+    "stateId": "New York",
+    "cityId": "NY: Buffalo",
+    "Q1": "Did Buffalo Sauce come from Buffalo the city?",
+    "A1": "Yup!",
+    "Q2": "Does Buffalo have a population of more than 1 Million people?",
+    "A2": "Nope, the population of Buffalo (not including the Buffalo-Niagara Falls metropolitan area) as of 2016 is ~257,000."
+  },
+  {
+    "stateId": "California",
+    "cityId": "CA: Los Angeles",
+    "Q1": "Does the sun shine every day in LA?",
+    "A1": "Nearly.",
+    "Q2": "What's the official dish of Los Angeles?",
+    "A2": "Avocado."
+  },
+  {
+    "stateId": "California",
+    "cityId": "CA: San Francisco",
+    "Q1": "What's the name of that famous bridge?",
+    "A1": "Golden Gate Bridge.",
+    "Q2": "What's the name of that other bridge in SF?",
+    "A2": "San Francisco–Oakland Bay Bridge."
+  },
+  {
+    "stateId": "Texas",
+    "cityId": "TX: Austin",
+    "Q1": "Where can I find the best breakfast tacos?",
+    "A1": "Veracruz.",
+    "Q2": "Is the BBQ really that good?",
+    "A2": "Yes."
+  },
+  {
+    "stateId": "Texas",
+    "cityId": "TX: San Antonio",
+    "Q1": "How far away is Austin from San Antonio?",
+    "A1": "45 minutes to 2 hours depending on traffic.",
+    "Q2": "Are San Antonio's breakfast tacos better than Austin's?",
+    "A2": "No way!"
+  }
+]
